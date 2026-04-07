@@ -122,9 +122,9 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushmanpathak9034&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushmanpathak9034&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmanpathak9034&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushmanpathak9034&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -133,7 +133,9 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushmanpathak9034&theme=tokyonight&no-frame=true&margin-w=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushmanpathak9034&theme=tokyonight&no-frame=true&margin-w=10" />
+
 </p>
 
 ---
