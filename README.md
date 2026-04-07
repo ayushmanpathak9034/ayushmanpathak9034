@@ -177,7 +177,7 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 </a>
 
 <a href="https://github.com/ayushmanpathak9034">
-  <img src="https://img.shields.io/badge/GitHub-ayushmanpathak9034-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-ayushmanpathak9034-yellow?style=for-the-badge&logo=github" />
 </a>
 
 </p>
