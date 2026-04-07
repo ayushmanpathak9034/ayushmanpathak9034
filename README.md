@@ -147,3 +147,11 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 ---
 
 ⭐ **"Building scalable solutions using Cloud, AI & Blockchain."**
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushmanpathak9034/ayushmanpathak9034/main/github-contribution-grid-snake.svg" />
+</p>
