@@ -134,7 +134,7 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayushmanpathak9034&theme=onedark&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-git-main.vercel.app/?username=ayushmanpathak9034&theme=onedark&no-frame=true" />
 
 </p>
 
