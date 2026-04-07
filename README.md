@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Ayushman Pathak Banner" />
+  <img src="banner.png" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Ayushman+Pathak;Cloud+Computing+Enthusiast;AI+Developer;Blockchain+Learner;AWS+Explorer" />
 </p>
