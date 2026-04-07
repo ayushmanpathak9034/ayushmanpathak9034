@@ -99,7 +99,7 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 
 <img src="https://img.shields.io/badge/AWS%20AI%20Application%20Bootcamp-Completed-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AI%20%26%20Blockchain%20LOCK--IN-Bootcamp-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Blockchain%20Bootcamp-Completed-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 </p>
 
