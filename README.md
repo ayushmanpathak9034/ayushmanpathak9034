@@ -169,11 +169,15 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayushman-pathak">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ayushman%20Pathak-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:ayushmanpathak9034@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Email-ayushmanpathak9034%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/ayushmanpathak9034">
+  <img src="https://img.shields.io/badge/GitHub-ayushmanpathak9034-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
