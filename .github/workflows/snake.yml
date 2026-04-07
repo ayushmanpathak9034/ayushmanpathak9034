@@ -13,6 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # ✅ REQUIRED STEP (this fixes your error)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -20,6 +26,7 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
 
+      # Commit generated file
       - name: Commit Snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
