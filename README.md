@@ -97,15 +97,15 @@ https://github.com/ayushmanpathak9034/Solar-Powered-Water-Purifier
 
 <img src="https://img.shields.io/badge/AMD%20AI%20Academy-Certified-red?style=for-the-badge&logo=amd&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AWS%20AI%20Application%20Bootcamp-Completed-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20AI%20Application%20Bootcamp-Completed-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AI%20%26%20Blockchain%20Bootcamp-Completed-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Blockchain%20LOCK--IN-Bootcamp-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 </p>
 
 ---
 
-### 📜 Certification Details
+## 📜 Certification Details
 
 - 🎓 **AMD AI Academy Certification**  
   Focused on Artificial Intelligence fundamentals and applications.
